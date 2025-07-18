@@ -15,18 +15,18 @@ class DayTranslateExtension extends AbstractExtension
     public function getFilters(): array
     {
         return [
-            new TwigFilter('day_name', [$this, 'translateDay']),
-            new TwigFilter('month_name', [$this, 'translateMonth']),
+            new TwigFilter('translate_day', [$this, 'translateDay']),
+            new TwigFilter('translate_month', [$this, 'translateMonth']),
         ];
     }
 
     public function translateDay(string $day, ?string $locale = null): string
     {
-        return $this->translator->trans('day.' . $day, [], 'time', $locale);
+        return $this->translator->trans( $day, [], 'time', $locale);
     }
 
     public function translateMonth(string $month, ?string $locale = null): string
     {
-        return $this->translator->trans('month.' . $month, [], 'time', $locale);
+        return $this->translator->trans( $month, [], 'time', $locale);
     }
 }
