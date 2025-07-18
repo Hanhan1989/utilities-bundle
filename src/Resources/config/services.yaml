@@ -1,0 +1,5 @@
+services:
+    HanhanChen\UtilitiesBundle\Twig\DayTranslateExtension:
+        arguments:
+            $translator: '@translator'
+        tags: ['twig.extension']
