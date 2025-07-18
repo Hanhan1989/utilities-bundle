@@ -2,6 +2,7 @@
     "name": "hanhan-chen/utilities-bundle",
     "description": "A Symfony bundle with various utilities (Twig filters, helpers, etc.)",
     "type": "symfony-bundle",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "HanhanChen\\UtilitiesBundle\\": "src/"
