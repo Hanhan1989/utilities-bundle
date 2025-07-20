@@ -19,3 +19,7 @@ composer require hanhan-chen/utilities-bundle
 {{ 'January'|translate_month }}          {# → Automatically uses the current locale, e.g., "Enero" if locale is "es" #}
 
 ````
+
+### License
+
+Utilities Bundle is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
