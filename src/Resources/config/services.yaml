@@ -3,3 +3,8 @@ services:
         arguments:
             $translator: '@translator'
         tags: ['twig.extension']
+
+    HanhanChen\UtilitiesBundle\Twig\MonthTranslateExtension:
+        arguments:
+            $translator: '@translator'
+        tags: ['twig.extension']
