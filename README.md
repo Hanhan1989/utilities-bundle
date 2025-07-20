@@ -26,4 +26,4 @@ Hanhan Chen (Stack Overflow) - <https://stackoverflow.com/users/4097889/chen-han
 
 ### License
 
-Utilities Bundle is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+Utilities Bundle is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
