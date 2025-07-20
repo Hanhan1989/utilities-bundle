@@ -22,7 +22,7 @@ composer require hanhan-chen/utilities-bundle
 
 ### Author
 
-Hanhan Chen - <https://stackoverflow.com/users/4097889/chen-hanhan> 
+Hanhan Chen (Stack Overflow) - <https://stackoverflow.com/users/4097889/chen-hanhan> 
 
 ### License
 
