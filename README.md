@@ -23,6 +23,17 @@ composer require hanhan-chen/utilities-bundle
 
 Hanhan Chen (Stack Overflow) - <https://stackoverflow.com/users/4097889/chen-hanhan> 
 
+
+### Support Utilities Bundle Financially
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="P4L8SBXH34V2C" />
+<input type="image" src="https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_ES/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+
 ### License
 
 Utilities Bundle is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
