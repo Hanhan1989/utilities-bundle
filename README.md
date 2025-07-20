@@ -1,7 +1,6 @@
 # Symfony Utilities Bundle
 
-A Symfony bundle that provides utilities for handling dates and time, such as Twig filters and reusable helpers.
-
+A Symfony bundle that provides utilities for handling dates and time, such as Twig filters and reusable helpers, including translating day and month names.
 
 ## Installation
 
@@ -26,4 +25,4 @@ Hanhan Chen (Stack Overflow) - <https://stackoverflow.com/users/4097889/chen-han
 
 ### License
 
-Utilities Bundle is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+Utilities Bundle is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
