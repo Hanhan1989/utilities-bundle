@@ -20,6 +20,10 @@ composer require hanhan-chen/utilities-bundle
 
 ````
 
+### Author
+
+Hanhan Chen - <https://stackoverflow.com/users/4097889/chen-hanhan> 
+
 ### License
 
 Utilities Bundle is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
