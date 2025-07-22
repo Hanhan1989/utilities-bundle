@@ -19,6 +19,22 @@ composer require hanhan-chen/utilities-bundle
 
 ````
 
+## Development & Testing
+
+If you want to develop or run tests (`phpunit`) for this bundle, you need to install some dev dependencies including PHPUnit.
+
+Run this in your bundle folder after cloning:
+
+```bash
+composer install
+```
+
+Then you can run tests with:
+
+```bash
+vendor/bin/phpunit
+```
+
 ### Author
 
 Hanhan Chen (Stack Overflow) - <https://stackoverflow.com/users/4097889/chen-hanhan> 
